@@ -7,3 +7,5 @@ A new Flutter project.
 ```dart
 dart run build_runner watch
 ```
+
+2. Clonar el archivo `.env.template` y renombrarlo a `.env` y completar los valores necesarios.
